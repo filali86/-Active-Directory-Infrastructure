@@ -27,7 +27,7 @@ This project involves building a complete Windows Server domain infrastructure f
 - Prepared server for domain controller promotion
 
 ### 3. Domain Controller Promotion
-- Created new forest with root domain `Demo.local`
+- Created new forest with root domain `Marwan.local`
 - Configured Directory Services Restore Mode password
 - Set functional levels and additional options
 - Passed prerequisites check successfully
